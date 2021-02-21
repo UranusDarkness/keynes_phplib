@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Keynes PHP Lib 👋</h1>
+<h1 align="center">💻 Keynes PHP Lib 💻</h1>
 <p>
   <a href="https://twitter.com/UranusDarkness" target="_blank">
     <img alt="Twitter: UranusDarkness" src="https://img.shields.io/twitter/follow/UranusDarkness.svg?style=social" />
