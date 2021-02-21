@@ -9,16 +9,11 @@
 
 ### 🏠 [Homepage](https://github.com/UranusDarkness/keynes_phplib)
 
-## Install
-
-```sh
-include 'keyneslib.php';
-```
-
 ## Usage
+Inserire il file nella directory del sito e aggiungere la seguente stringa all'interno del tag php
 
-```sh
-Inserire il file nella directory del sito e inserire la stringa menzionata in install all'interno del tag php
+```php
+include 'keyneslib.php';
 ```
 
 ## Author
@@ -33,4 +28,3 @@ Inserire il file nella directory del sito e inserire la stringa menzionata in in
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
