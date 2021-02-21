@@ -1,2 +1,2 @@
-# keynes_phplib
-PHP Lib used on Keynes' assignments
+# Keynes PHP Lib
+Libreria PHP per gli esercizi di laboratorio
